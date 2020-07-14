@@ -7,7 +7,7 @@
 
 
 class Solution:
-    def reverseList(self, head: ListNode) -> ListNode:
+    def reverseList_iter(self, head: ListNode) -> ListNode:
         
         prev = None
         curr = head
@@ -23,3 +23,19 @@ class Solution:
         head = prev
         
         return head
+    
+    def reverseList_recur(self, head: ListNode) -> ListNode:
+        
+        # If head is empty or has reached the list end 
+        if head is None or head.next is None: 
+            return head 
+  
+        # Reverse the rest list 
+        rest = self.reverse(head.next) 
+  
+        # Put first element at the end 
+        head.next.next = head 
+        head.next = None
+  
+        # Fix the header pointer 
+        return rest 
