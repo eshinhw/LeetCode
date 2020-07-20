@@ -13,7 +13,7 @@ def containsNearbyDuplicate(nums, k: int) -> bool:
         
         elif i - count[nums[i]][len(count[nums[i]]) - 1] <= k:
             
-            print("Second condition")
+            return True
             
         else:
             count[nums[i]].append(i)
