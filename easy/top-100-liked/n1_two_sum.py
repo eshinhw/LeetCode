@@ -1,5 +1,12 @@
 """
 #1. Two Sum (Top 100 Liked Questions)
+
+When constructing a dictionary to store index information,
+We have to construct it when we are in the first for loop.
+
+If we attempt to construct a dictionary first,
+then try to access the right two indices,
+there is a problem of duplicates and things get more complicated.
 """
 
 
