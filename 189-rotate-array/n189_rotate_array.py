@@ -1,18 +1,23 @@
 
-
-def rotate(nums, k: int) -> None:
+class Solution:
+    def rotate(self, nums: List[int], k: int) -> None:
         """
         Do not return anything, modify nums in-place instead.
         """
         
-        
-        
-        
-        for _ in range(k):
-            
+        for _ in range(k):            
             nums.insert(0, nums.pop())
-        
+            
 
+    def rotateV2(self, nums: List[int], k: int) -> None:
+        """
+        Do not return anything, modify nums in-place instead.
+        """        
         
-
-rotate([1,2,3,4,5,6,7], 3)
+        k = k % len(nums)
+        if k == 0:
+            return nums
+        
+        nums[:k], nums[k:] = nums[-k:], nums[:-k]
+        
+      
