@@ -1,6 +1,3 @@
-"""
-21. Merge Two Sorted Lists
-"""
 
 # Definition for singly-linked list.
 # class ListNode:
@@ -44,3 +41,5 @@ class Solution:
                 curr = curr.next
             
         return dummy.next
+    
+
