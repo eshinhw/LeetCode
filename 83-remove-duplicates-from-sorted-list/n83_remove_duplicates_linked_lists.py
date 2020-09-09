@@ -23,5 +23,4 @@ class Solution:
         return head
         
 
-a = Solution()
 
