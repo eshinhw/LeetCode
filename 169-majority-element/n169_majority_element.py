@@ -22,9 +22,11 @@ class MySolution:
 
             
 class AlternativeSolution1:
+    
     def majorityElement(self, nums):
         
         nums.sort()
+        
         return nums[len(nums)//2]
 
 
@@ -32,9 +34,13 @@ class AlternativeSolution1:
 from collections import Counter
     
 class AlternativeSolution2:
+    
     def majorityElement(self, nums):
+        
         majority = len(nums) // 2
+        
         count_dic = Counter(nums)
+        
         for k,v in count_dic.items():
             if v > majority:
                 return k
