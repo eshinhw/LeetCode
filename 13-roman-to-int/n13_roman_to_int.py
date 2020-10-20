@@ -40,4 +40,4 @@ def romanToInt(s: str) -> int:
 
 print(romanToInt('XLIX'))
         
-
+print(romanToInt('IV'))
