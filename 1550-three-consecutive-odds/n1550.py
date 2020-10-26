@@ -1,5 +1,5 @@
 class Solution:
-    def threeConsecutiveOdds(self, arr: List[int]) -> bool:
+    def threeConsecutiveOdds(self, arr) -> bool:
         
         count = 0
         
