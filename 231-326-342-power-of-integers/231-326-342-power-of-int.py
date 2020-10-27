@@ -44,6 +44,7 @@ class Solution:
 
 a = Solution()
 
+
 print(a.isPowerOfTwo(64))
 print(a.isPowerOfThree(64))
 print(a.isPowerOfFour(64))
