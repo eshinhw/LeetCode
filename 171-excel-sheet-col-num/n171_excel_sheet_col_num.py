@@ -2,11 +2,9 @@
 171. Excel Sheet Column Number
 """
 
-
 class Solution:
-
     def titleToNumber(self, s: str) -> int:
-        
+        # part 1: mapping
         mapping = {'A': 1,
                    'B': 2,
                    'C': 3,
@@ -33,20 +31,11 @@ class Solution:
                    'X': 24,
                    'Y': 25,
                    'Z': 26}
-        
+        # part 2: 26 based calculation
         power = 0
-        
         total = 0
-        
         for ch in s[::-1]:
-            
             total += mapping[ch] * (26**power)
             power += 1
 
         return total
-            
-
-
-a = Solution()
-
-a.titleToNumber('ZY')
