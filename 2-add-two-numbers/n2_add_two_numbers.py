@@ -16,6 +16,7 @@ class Solution:
         t2 = l2
 
         carry = 0
+        overflow = 1
 
         while (t1 != None or t2 != None):
 
