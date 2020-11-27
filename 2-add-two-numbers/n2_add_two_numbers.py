@@ -22,6 +22,9 @@ class Solution:
 
             digit_sum = t1.val + t2.val
 
+            return_value = None
+
+
             if (digit_sum >= 10):
                 carry += 1
                 remainder = digit_sum - 10
