@@ -21,6 +21,7 @@ class Solution:
         while (t1 != None or t2 != None):
 
             digit_sum = t1.val + t2.val
+            summary = t1.val
 
             return_value = None
 
