@@ -15,7 +15,7 @@ public:
             remainder = target - nums[i];
 
             if (loc.find(remainder) == loc.end()) {
-                loc[remainder] = i
+                loc[remainder] = i;
             } else {
                 output.push_back(loc[remainder]);
                 output.push_back(i);
