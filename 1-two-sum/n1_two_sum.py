@@ -1,18 +1,18 @@
 
 class Solution:
-    
+
     def twoSum(self, nums, target):
-        
+
         loc = {}
-    
-        for i in range(len(nums)):            
-            remainder = target - nums[i]            
+
+        for i in range(len(nums)):
+            remainder = target - nums[i]
             if remainder in loc:
-                return [i, loc[remainder]]            
+                return [i, loc[remainder]]
             else:
                 loc[nums[i]] = i
-        
-    
+
+
 sol = Solution()
 
 print(sol.twoSum([2,7,11,15], 9))
@@ -28,5 +28,5 @@ print(sol.twoSum([11,5,2,15], 9))
 
 
 
-            
+
 
