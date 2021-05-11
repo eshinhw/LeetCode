@@ -17,27 +17,24 @@ class Solution:
         if len(cardPoints) == k:
             return sum(cardPoints)
 
-        sum_list = []
-
         left_idx = 0
         right_idx = len(cardPoints) - k
 
-        left_sum = 0
-        right_sum = sum(cardPoints[right_idx:])
-        total_sum = left_sum + right_sum
-
-        sum_list.append(total_sum)
+        current_sum = sum(cardPoints[right_idx:])
+        max_sum = current_sum
 
         while (right_idx<len(cardPoints)):
 
-            left_sum += cardPoints[left_idx]
-            right_sum -= cardPoints[right_idx]
-            total_sum = left_sum + right_sum
-            sum_list.append(total_sum)
+            current_sum = current_sum + cardPoints[left_idx] - cardPoints[right_idx]
+
+            if current_sum > max_sum:
+                max_sum = current_sum
+
             left_idx += 1
             right_idx += 1
 
-        return max(sum_list)
+        return max_sum
+
 
 
 sol = Solution()
