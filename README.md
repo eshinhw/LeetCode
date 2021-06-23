@@ -8,6 +8,6 @@
 ## Problems
 
 | No. | Problem Description | Difficulty | Languages | Notes | Status |
-| :---: | :----------------: | :----------: | :---------: | :------: | :------: |
+| :---: | :----------------: | :----------: | :---------: | :------ | :------: |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Python | track index info of remainder | :green_circle: |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Python | stack | :green_circle: |
