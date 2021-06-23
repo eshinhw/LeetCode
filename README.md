@@ -1,13 +1,13 @@
 # LeetCode Tracker
 
-## Status
+## Understanding Status
 🟢 : Understood 100% 😀 <br>
 🟡 : 50\~60% 🤨 <br>
 🔴 : 0\~20% ☹️ <br>
 
 ## Problems
 
-| No. | Problem Description | Difficulty | Languages | Notes | Status |
+| No. | Problem Description | Difficulty | Languages | Notes | Understanding |
 | :---: | :----------------: | :----------: | :---------: | :------ | :------: |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Python, C++ | track index info of remainder | 🟢 |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Python, C++ | stack | 🟢 |
