@@ -7,9 +7,9 @@
 
 ## Problems
 
-| No. | Title | Difficulty | Languages | Notes | Related Problems | Understanding |
-| :---: | :----------------: | :----------: | :---------: | :------ | :------: | :------: |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Python, C++ | track index info of remainder | ... | 🟢 |
-| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Python, C++ | stack | ... | 🟢 |
-| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Python | updating pointers for each list | ... | 🟢 |
-|53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | Python | ... | ... |  🟡 |
+| No. | Title | Difficulty | Languages | Related Problems | Understanding |
+| :---: | :----------------: | :----------: | :---------: | :------ | :------: |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Python, C++  | ... | 🟢 |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Python, C++ | ... | 🟢 |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Python | ... | 🟢 |
+|53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | Python | ... |  🟡 |
