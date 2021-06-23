@@ -1,7 +1,7 @@
 # LeetCode Tracker
 
 ## Understanding Status
-🟢 : Understood 100% 😀 <br>
+🟢 : 100% 😀 <br>
 🟡 : 50\~60% 🤨 <br>
 🔴 : 0\~20% ☹️ <br>
 
