@@ -1,13 +1,15 @@
 # LeetCode Tracker
 
-## Status
-:green_circle: : Solved! <br>
-:yellow_circle: : Pretty sure I solved before, but just forgot how I solved it before. <br>
-:red_circle: : Have no clue how I solved before... Did I cheat...? Definitely study from scratch again :( <br>
+## Understanding Status
+🟢 : 100% 😀 <br>
+🟡 : 50\~60% 🤨 <br>
+🔴 : 0\~20% ☹️ <br>
 
 ## Problems
 
-| No. | Problem Description | Difficulty | Languages | Notes | Status |
+| No. | Title | Difficulty | Languages | Algorithm Notes | Understanding |
 | :---: | :----------------: | :----------: | :---------: | :------ | :------: |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Python, C++ | track index info of remainder | :green_circle: |
-| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Python, C++ | stack | :green_circle: |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Python, C++  | ... | 🟢 |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Python, C++ | ... | 🟢 |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | Python | ... | 🟢 |
+|53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | Python | [Notes](https://quantshin.com/53-maximum-subarray/) |  🟡 |
