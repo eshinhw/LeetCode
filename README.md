@@ -19,5 +19,7 @@
 |[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Python | [Solution](https://quantshin.com/104-maximum-depth-of-binary-tree-easy/) | 🟢 |
 |[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Python | [Solution](https://quantshin.com/121-best-time-to-buy-and-sell-stock-easy/) | 🟡 |
 | [136. Single Number](https://leetcode.com/problems/single-number/) | Easy | Python | [Solution](https://quantshin.com/136-single-number-easy/) | 🟡 |
+| [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | Python | [Solution](https://quantshin.com/141-linked-list-cycle-easy/) | 🟢 |
+| 
 
 
