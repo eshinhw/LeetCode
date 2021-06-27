@@ -23,5 +23,7 @@
 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | Easy | Python | [Solution](https://quantshin.com/155-min-stack-easy/) | 🟢 |
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | Python | [Solution](https://quantshin.com/160-intersection-of-two-linked-lists-easy/) | 🟡 |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Python | [Solution](https://quantshin.com/169-majority-element-easy/) | 🟡 |
+| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | Python | [Solution](https://quantshin.com/206-reverse-linked-list-easy/) | 🔴 |
+
 
 
