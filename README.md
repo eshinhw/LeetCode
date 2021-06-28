@@ -24,6 +24,7 @@
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | Python | [Solution](https://quantshin.com/160-intersection-of-two-linked-lists-easy/) | 🟡 |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Python | [Solution](https://quantshin.com/169-majority-element-easy/) | 🟡 |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | Python | [Solution](https://quantshin.com/206-reverse-linked-list-easy/) | 🔴 |
+| [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | Python | [Solution](https://quantshin.com/226-invert-binary-tree-easy/) | 🟢 |
 
 
 
