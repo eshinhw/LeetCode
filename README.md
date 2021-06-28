@@ -7,7 +7,7 @@
 
 ## Problems
 
-|Title | Difficulty | Languages | Quick Notes | & Solutions | Understanding |
+|Title | Difficulty | Languages | Quick Notes | Solutions | Understanding |
 |:----------------: | :----------: | :---------: | :------: | :------: | :------: |
 |[1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Python, C++  | | [Solution](https://quantshin.com/1-two-sum-easy/) | 🟢 |
 |[2. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Python, C++ | |  [Solution](https://quantshin.com/20-valid-parentheses-easy/) | 🟢 |
@@ -24,7 +24,8 @@
 | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | Python | |  [Solution](https://quantshin.com/160-intersection-of-two-linked-lists-easy/) | 🟡 |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | Easy | Python | |  [Solution](https://quantshin.com/169-majority-element-easy/) | 🟡 |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | Python | |  [Solution](https://quantshin.com/206-reverse-linked-list-easy/) | 🔴 |
-| [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | Python | |  [Solution](https://quantshin.com/226-invert-binary-tree-easy/) | 🟢 |
+| [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | Python | recursive: swap left and right nodes |  [Solution](https://quantshin.com/226-invert-binary-tree-easy/) | 🟢 |
+| [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | Python | trivial: save values in an array and check whether it's palindrome <br> optimal (O(n) time & O(1) space): double pointers, reverse list  | [Solution](https://quantshin.com/234-palindrome-linked-list-easy/) | 🟡 |
 
 
 
