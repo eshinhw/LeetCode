@@ -33,5 +33,6 @@ I used Python to solve most of the problems.
 | [283. Move Zeroes]() | Easy | | [Solution](https://quantshin.com/283-move-zeroes-easy/) | 🟡 | 
 | [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | Easy | python set operations | [Solution](https://quantshin.com/448-find-all-numbers-disappeared-in-an-array/) | 🟢 |
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | calculate height and diameter from leaf nodes | [Solution](https://quantshin.com/543-diameter-of-binary-tree-easy/) | 🟡 |
+| [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | Easy | simplify things, don't overcomplicate things | [Solution](https://quantshin.com/617-merge-two-binary-trees-easy/) | 🟡 |
 
 
