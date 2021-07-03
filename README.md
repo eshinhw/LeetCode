@@ -36,5 +36,6 @@ I used Python to solve most of the problems.
 | [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | Easy | simplify things, don't overcomplicate things | [Solution](https://quantshin.com/617-merge-two-binary-trees-easy/) | 🟡 |
 | [338. Counting Bits](https://leetcode.com/problems/counting-bits/) | Easy | Dynamic programming | [Solution](https://quantshin.com/338-counting-bits-easy/) | 🔴 |
 | [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | Medium | Binary search, left/right pointer window | [Solution](https://quantshin.com/658-find-k-closest-elements-medium/) | 🟡 |
+| [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Easy | Very easy problem.. | [Solution](https://quantshin.com/237-delete-node-in-a-linked-list-easy/) | 🟡 |
 
 
