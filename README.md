@@ -38,6 +38,8 @@ I used Python to solve most of the problems.
 | [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | Medium | Binary search, left/right pointer window | [Solution](https://quantshin.com/658-find-k-closest-elements-medium/) | 🟡 |
 | [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Easy | Very easy problem.. | [Solution](https://quantshin.com/237-delete-node-in-a-linked-list-easy/) | 🟡 |
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | binary search approach | [Solution](https://quantshin.com/344-reverse-string-easy/) | 🟢 |
+| [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | index operation | [Solution](https://quantshin.com/350-intersection-of-two-arrays-ii-easy/) | 🟡 |
+
 
 
 
