@@ -40,6 +40,8 @@ I used Python to solve most of the problems.
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | binary search approach | [Solution](https://quantshin.com/344-reverse-string-easy/) | 🟢 |
 | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Easy | index operation | [Solution](https://quantshin.com/350-intersection-of-two-arrays-ii-easy/) | 🟡 |
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | backtracking, stack | [Solution](https://quantshin.com/22-generate-parentheses-medium/) | 🟡 |
+| [78. Subsets](https://leetcode.com/problems/subsets/) | Medium | backtracking | [Solution](https://quantshin.com/78-subsets-medium/) | 🟡 |
+
 
 
 
