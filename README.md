@@ -42,6 +42,7 @@ I used Python to solve most of the problems.
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | backtracking, stack | [Solution](https://quantshin.com/22-generate-parentheses-medium/) | 🟡 |
 | [78. Subsets](https://leetcode.com/problems/subsets/) | Medium | backtracking | [Solution](https://quantshin.com/78-subsets-medium/) | 🟡 |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | linked list, manage carry | [Solution](https://quantshin.com/2-add-two-numbers-medium/) | 🟡 |
+| [46. Permutations](https://leetcode.com/problems/permutations/) | Medium | recursion, backtracking | [Solution](https://quantshin.com/46-permutations-medium/) | 🟡 |
 
 
 
