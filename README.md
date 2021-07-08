@@ -44,6 +44,8 @@ I used Python to solve most of the problems.
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | linked list, manage carry | [Solution](https://quantshin.com/2-add-two-numbers-medium/) | 🟡 |
 | [46. Permutations](https://leetcode.com/problems/permutations/) | Medium | recursion, backtracking | [Solution](https://quantshin.com/46-permutations-medium/) | 🟡 |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | linked list, pointer manipulation | [Solution](https://quantshin.com/19-remove-nth-node-from-end-of-list-medium/) | 🟢 |
+| [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | Medium | linked list, pointer manipulation | [Solution](https://quantshin.com/1721-swapping-nodes-in-a-linked-list-medium/) | 🟢 |
+
 
 
 
