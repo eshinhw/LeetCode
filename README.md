@@ -1,13 +1,13 @@
 # LeetCode Tracker
 
-## Understanding Status
+## Understanding Level
 🟢 : 100% 😀 <br>
 🟡 : 50\~60% 🤨 <br>
 🔴 : 0\~20% ☹️ <br>
 
 ## Programming Language Used
 
-I used Python to solve most of the problems.
+Python, C++
 
 ## Problems
 
