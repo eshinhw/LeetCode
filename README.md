@@ -47,6 +47,8 @@ Python, C++
 | [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | Medium | linked list, pointer manipulation | [Solution](https://quantshin.com/1721-swapping-nodes-in-a-linked-list-medium/) | 🟢 |
 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | iterative, recursive | [Solution](https://quantshin.com/24-swap-nodes-in-pairs-medium/) | 🟢 |
 | [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | two pointers | [Solution](https://quantshin.com/142-linked-list-cycle-ii-medium/) | 🔴 |
+| [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | my solution can be improved further, review later | [Solution](https://quantshin.com/14-longest-common-prefix-easy/) | 🟡 |
+
 
 
 
